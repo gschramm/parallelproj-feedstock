@@ -100,7 +100,7 @@ outputs:
         - pytest tests -vs
 
 about:
-  home: https://github.com/gschramm/parallelproj
+  home: https://github.com/KUL-recon-lab/parallelproj
   license: MIT
   license_file: LICENSE
   summary: parallelized TOF PET projectors
